@@ -1,4 +1,4 @@
 module.exports = {
-    database: 'mongodb+srv://phenom:1708@technotest-a8hf3.mongodb.net/test?retryWrites=true',
+    database: 'mongodb+srv://nehamahajan2060:NehaMahajan@2060@cluster0-gqht0.mongodb.net/test?retryWrites=true',
     secret: 'phenom'
 }
